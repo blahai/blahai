@@ -3,7 +3,7 @@
 #### I'm a trans girl hoping to study computer science.
 I like Linux, penguins and cuddles :3 
 
-So far I've been daily driving Linux on my home desktop for around 2 years now
+So far I've been daily driving Linux on my home desktop for around 3 years now
 
 
 

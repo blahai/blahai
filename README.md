@@ -11,19 +11,19 @@ So far I've been daily driving Linux on my home desktop for around 3 years now
 
 - Python
 - JavaScript
-
+- HTML
+- CSS
+  
 ##### Languages I am currently learning:
 
 - Rust
-- TypeScript
-- HTML
-- CSS
+- Kotlin
+- C/C++
 
 ###### Languages I want to learn:
 
-- C
-- C++
-- Kotlin
+- Zig
+- Go
 
 
 
